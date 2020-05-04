@@ -20,3 +20,8 @@ without having to change the working contract
 * Components represent part or whole structure
 * Compose objects into tree structure
 
+#### Decorator
+* Inheritance based
+* Utilizes composition and inheritance (is-a, has-a)
+* Alternative to subclassing
+
