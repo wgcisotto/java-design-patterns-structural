@@ -4,7 +4,7 @@ public class Red implements Color {
 
     @Override
     public String applyColor() {
-        return "Applying rede color";
+        return "Applying red color";
     }
 
 }

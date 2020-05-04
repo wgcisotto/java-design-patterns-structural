@@ -12,7 +12,7 @@ public class ShapeAndColorsTest {
         Color red = new Red();
         Shape circle = new Circle(red);
 
-        assertEquals("Applying rede color", circle.applyColor());
+        assertEquals("Applying red color", circle.applyColor());
     }
 
     @Test
