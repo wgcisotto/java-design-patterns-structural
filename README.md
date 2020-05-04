@@ -16,4 +16,7 @@ without having to change the working contract
 * Design for uncertainty 
 * More than composition
 
-#### Conmposite
+#### Composite
+* Components represent part or whole structure
+* Compose objects into tree structure
+
