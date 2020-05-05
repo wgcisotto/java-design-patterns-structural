@@ -28,3 +28,12 @@ without having to change the working contract
 * Make an API easier to use
 * Reduce dependencies on outside the code
 * Simplify the interface or client usage
+
+#### Flyweight
+* More efficient use of memory 
+* Large number of similar objects 
+* Immutable 
+Ex: String
+* Pattern of pattern 
+Utilizes a Factory 
+Encompasses Creation and Structure
