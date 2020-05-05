@@ -9,7 +9,6 @@ without having to change the working contract
 * Convert interface into another interface
 * Translate requests from the client to the code we're adapting to
 
-
 #### Bridge
 * Decouple Abstraction and implementation
 * Changes in Abstraction won't affect client
@@ -25,3 +24,7 @@ without having to change the working contract
 * Utilizes composition and inheritance (is-a, has-a)
 * Alternative to subclassing
 
+#### Facade
+* Make an API easier to use
+* Reduce dependencies on outside the code
+* Simplify the interface or client usage
