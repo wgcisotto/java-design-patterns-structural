@@ -32,8 +32,11 @@ without having to change the working contract
 #### Flyweight
 * More efficient use of memory 
 * Large number of similar objects 
-* Immutable 
-Ex: String
-* Pattern of pattern 
-Utilizes a Factory 
-Encompasses Creation and Structure
+* Immutable Ex: String
+* Pattern of pattern, utilizes a Factory 
+* Encompasses Creation and Structure
+
+#### Proxy
+* Interface by wrapping 
+* Proxy called to access real object 
+* Can add functionality
